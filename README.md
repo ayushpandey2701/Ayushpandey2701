@@ -5,7 +5,7 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushPandey2701" alt="Ayushpandey2701" /></a> </p>
  
-- 👨‍💻 All of my projects are available at [https://github.com/immunnapandit/immunnapandit](https://github.com/Ayushpandey2701)
+- 👨‍💻 All of my projects are available at [https://github.com/AyushPandey2701/Ayushpandey2701](https://github.com/Ayushpandey2701)
   
 - 💬 Ask me about **Data Analytics**
  
