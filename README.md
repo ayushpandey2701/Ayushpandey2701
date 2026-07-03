@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
 <h3 align="center">A passionate Future Data Analyst</h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=immunnapandit&label=Profile%20views&color=0e75b6&style=flat" alt="immunnapandit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushPandey2701&label=Profile%20views&color=0e75b6&style=flat" alt="AyushPandey" /> </p>
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushPandey2701" alt="Ayushpandey2701" /></a> </p>
  
